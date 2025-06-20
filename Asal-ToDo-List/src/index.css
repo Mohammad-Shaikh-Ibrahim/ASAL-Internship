@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to your global CSS file if necessary */
+body.dark-mode {
+    background-color: #000; /* Ensure the body is black */
+  }
+  
